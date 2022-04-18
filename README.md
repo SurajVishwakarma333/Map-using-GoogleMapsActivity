@@ -2,6 +2,8 @@
 Map is an android application which shows my specified Location.
 
 
+![WhatsApp Image 2022-04-18 at 3 07 28 PM (1)](https://user-images.githubusercontent.com/101108540/163790005-98f78c22-4efb-40a9-87ad-3b5de9d31059.jpeg)
+
              Before you run your application, you need a Google Maps API key.
 
              To get one, follow the directions here:
@@ -18,4 +20,4 @@ Map is an android application which shows my specified Location.
              
              
              
-             ![WhatsApp Image 2022-04-18 at 3 07 29 PM](https://user-images.githubusercontent.com/101108540/163789871-07e94792-4ad4-41a0-a60d-7ecaa6a39519.jpeg)
+           
