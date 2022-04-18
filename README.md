@@ -2,7 +2,7 @@
 Map is an android application which shows my specified Location.
 
 
-             Before you run your application, you need a Google Maps API key.
+             TODO: Before you run your application, you need a Google Maps API key.
 
              To get one, follow the directions here:
 
