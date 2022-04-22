@@ -16,7 +16,7 @@ Map is an android application which shows my specified Location.
              "YOUR_API_KEY" string from AndroidManifest file with "${MAPS_API_KEY}".
              
              Manipulates the map once available.
-             I added my location marker in India ., you can add yours as per your required location
+             I added my location marker in India., you can add yours as per your required location
              
              
              
