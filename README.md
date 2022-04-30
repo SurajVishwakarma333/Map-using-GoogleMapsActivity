@@ -1,5 +1,12 @@
 # Map
-Map is an android application which shows my specified Location.
+Map is an android application which shows my specified Location.In this project i used Google Map Activity.
+
+
+
+           just add API_KEY in android Manifest.xml 
+           AIzaSyDk_vJQDTKJnyQIAzAO-HhUk1_TF-_aQ6c     
+
+
 
 
 ![WhatsApp Image 2022-04-18 at 3 07 28 PM (1)](https://user-images.githubusercontent.com/101108540/163790005-98f78c22-4efb-40a9-87ad-3b5de9d31059.jpeg)
