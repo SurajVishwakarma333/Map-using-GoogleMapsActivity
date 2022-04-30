@@ -2,13 +2,13 @@
 Map is an android application which shows my specified Location.In this project i used Google Map Activity.
 
 
-just add API_KEY in android Manifest.xml. Everyones API KEY is different. Create your own API in Google Console API site.
+Before you run your application, you need a Google Maps API key.
 
 
 
 
 
-                   Before you run your application, you need a Google Maps API key.
+                   
 
                    To get one, follow the directions here:
 
